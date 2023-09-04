@@ -1,0 +1,26 @@
+#carouselExampleInterval{
+    max-height: 39rem;
+    padding: 4rem;
+}
+#que_es{
+    max-width: 100rem;
+}
+#origen{
+    max-width: 100rem;
+    background-color: whitesmoke;
+}
+#usos{
+    max-width: 100rem;
+}
+#caract{
+    max-width: 100rem;
+}
+#ejm{
+    max-width: 100rem;
+}
+.imagen  {
+    width: 600px;
+    height: 300px;
+    vertical-align: top;
+}
+   
